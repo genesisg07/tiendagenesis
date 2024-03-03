@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; background-color: #f2f2f2; margin: 0; padding: 20px; }
+h1 { text-align: center; }
+.evento { background-color: #fff; padding: 20px; margin-bottom: 20px; border-radius: 5px; }
+.evento h2 { margin-top: 0; }
+.evento p { margin-bottom: 10px; } 
